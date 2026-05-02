@@ -1,3 +1,11 @@
+title: Pneumonia Detection
+emoji: 🫁
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.0.0
+app_file: app.py
+pinned: false
 # 🫁 Pneumonia Detection from Chest X-Ray
 
 A deep learning web app that detects **Pneumonia** from chest X-ray images using a fine-tuned ResNet18 model, deployed with Streamlit.
